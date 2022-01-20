@@ -1,0 +1,12 @@
+Do you like to drink tea?
+3
+1)yes
+2)no
+3)what?
+1
+Have you ever been in London?
+3
+1)Yes I have.
+2)No, I haven`t.
+3)What?
+1
