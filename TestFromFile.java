@@ -10,7 +10,6 @@ public class TestFromFile {
         String path = "exercises.txt";
 
         try (Scanner fr = new Scanner(new File(path))) {
-            //while (sc.hasNextInt()) sum += sc.nextInt();
             while (fr.hasNextLine()) {
                 System.out.println(fr.nextLine());
                 int num = Integer.parseInt(fr.nextLine());
